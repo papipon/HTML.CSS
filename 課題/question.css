@@ -63,15 +63,15 @@ main{
 }
 
 
-@media screen and (max-width:425px){
+@media screen and (max-width:768px){
  main{
-  width: 750px;
+  width: 90%;
   margin: 50px auto;
 }
 
 .box{
   float: none;
-  width: 90%;
+  width: 100%;
   margin-top: 20px;
   padding: 10px;
   position: relative;
